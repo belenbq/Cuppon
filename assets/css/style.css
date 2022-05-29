@@ -1,0 +1,36 @@
+/*tuve que colocar important por que no agarraba la letra ni el color
+ ni el tamaño de letra*/ 
+body {
+    font-family: 'Roboto', sans-serif !important;
+    color: #707070 !important;
+    font-weight: 300 !important;
+}
+
+h1,
+h5 {
+    font-weight: 300;
+    color: #212529;
+}
+
+strong{
+    color: #28a745;
+    padding: 1rem;
+}
+
+nav,
+#form {
+    background-color: #28a745;
+}
+
+.card-text,
+footer {
+    color: #707070;
+}
+
+.text-cupon {
+    color: white ;
+}
+
+.logo-black{
+    width: 100px;
+}
